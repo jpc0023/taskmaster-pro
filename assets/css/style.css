@@ -1,3 +1,17 @@
+.firstHeader {
+    font-family: playfair-display, serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.titleGroup {
+    font-family: playfair-display, serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
 ul.list-group {
   min-height: 130px;
 }
